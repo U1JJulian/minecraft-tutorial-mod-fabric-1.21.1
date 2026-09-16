@@ -16,7 +16,7 @@ import java.util.List;
 
 public class ModItems {
 
-    //LISTA PARA AGREGAR LOS ITEMS
+    //LISTA PARA AGREGAR LOS ITEMS EN MINECRAFT
     public static final Item KAKU_GEM = registerItem("kaku_gem", new Item(new Item.Settings()));
     public static final Item RC_CELLS = registerItem("rc_cells", new Item(new Item.Settings()));
     public static final Item INVESTIGATORS_BLOOD = registerItem("investigators_blood", new Item(new Item.Settings()));
