@@ -21,6 +21,7 @@ public class ModItems {
     public static final Item RC_CELLS = registerItem("rc_cells", new Item(new Item.Settings()));
     public static final Item INVESTIGATORS_BLOOD = registerItem("investigators_blood", new Item(new Item.Settings()));
     public static final Item INVESTIGATORS_FLESH = registerItem("investigators_flesh", new Item(new Item.Settings()));
+    public static final Item KAKUHOU_ORGAN = registerItem("kakuhou_organ", new Item(new Item.Settings()));
 
     private static Item registerItem(String name, Item item){
         return Registry.register(Registries.ITEM, Identifier.of(TutorialMod.MOD_ID, name), item);
@@ -36,6 +37,7 @@ public class ModItems {
                     entries.add(RC_CELLS);
                     entries.add(INVESTIGATORS_BLOOD);
                     entries.add(INVESTIGATORS_FLESH);
+                    entries.add(KAKUHOU_ORGAN);
                 });
 
     }
