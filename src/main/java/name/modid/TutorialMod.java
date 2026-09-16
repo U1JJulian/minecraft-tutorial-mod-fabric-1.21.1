@@ -3,6 +3,7 @@ package name.modid;
 import net.fabricmc.api.ModInitializer;
 
 import net.minecraft.util.Identifier;
+import name.modid.item.ModItems;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -14,7 +15,7 @@ public class TutorialMod implements ModInitializer {
 
 	@Override
 	public void onInitialize() {
-
+		ModItems.registerModItems();
 	}
 
 	public static Identifier id(String path) {
