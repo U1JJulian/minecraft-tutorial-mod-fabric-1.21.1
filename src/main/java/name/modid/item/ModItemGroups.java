@@ -21,6 +21,7 @@ public class ModItemGroups {
                         entries.add(ModItems.INVESTIGATORS_FLESH);
                         entries.add(ModItems.INVESTIGATORS_BLOOD);
                         entries.add(ModItems.KAKUHOU_ORGAN);
+                        entries.add(ModItems.KAKU_SWORD);
                     })).build());
 
     public static final ItemGroup PINK_GARNET_BLOCKS_GROUP = Registry.register(

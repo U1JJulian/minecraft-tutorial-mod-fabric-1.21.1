@@ -23,6 +23,15 @@ public class ModItems {
     public static final Item INVESTIGATORS_FLESH = registerItem("investigators_flesh", new Item(new Item.Settings()));
     public static final Item KAKUHOU_ORGAN = registerItem("kakuhou_organ", new Item(new Item.Settings()));
 
+    //Creacion de los tools
+
+    //Creacion de la espada
+    public static final Item KAKU_SWORD = registerItem("kaku_sword",
+            new SwordItem(ModToolMaterials.KAKU_GEM, new Item.Settings()
+                    .attributeModifiers(SwordItem.createAttributeModifiers(ModToolMaterials.KAKU_GEM,
+                            3,-2.4f)))
+            );
+
     private static Item registerItem(String name, Item item){
         return Registry.register(Registries.ITEM, Identifier.of(TutorialMod.MOD_ID, name), item);
     }
