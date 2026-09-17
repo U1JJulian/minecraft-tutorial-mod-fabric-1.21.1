@@ -29,6 +29,7 @@ public class ModItemGroups {
                     .displayName(Text.translatable("itemgroup.tutorial-mod.kaku_blocks_group"))
                     .entries(((displayContext, entries) -> {
                         entries.add(ModBlocks.KAKU_BLOCK);
+                        entries.add(ModBlocks.KAKU_ORE);
                     })).build());
 
     public static void registerItemGroups(){

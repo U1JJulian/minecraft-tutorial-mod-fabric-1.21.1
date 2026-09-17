@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 500,
+  "experience": 0.25,
+  "group": "kaku_ore",
+  "ingredient": {
+    "item": "tutorial-mod:kaku_ore"
+  },
+  "result": {
+    "id": "tutorial-mod:kaku_gem"
+  }
+}

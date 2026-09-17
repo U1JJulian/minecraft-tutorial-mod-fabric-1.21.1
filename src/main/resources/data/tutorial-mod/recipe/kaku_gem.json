@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "tutorial-mod:kaku_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "id": "tutorial-mod:kaku_gem"
+  }
+}

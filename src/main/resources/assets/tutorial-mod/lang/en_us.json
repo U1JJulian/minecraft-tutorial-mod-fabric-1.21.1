@@ -1,10 +1,13 @@
 {
   "itemgroup.tutorial-mod.kaku_items_group": "Grupo de Items",
   "itemgroup.tutorial-mod.kaku_blocks_group": "Grupo de Bloques",
+
   "item.tutorial-mod.rc_cells": "Celulas RC",
   "item.tutorial-mod.kaku_gem": "Kaku Gema",
   "item.tutorial-mod.investigators_blood": "Sangre de Investigador",
   "item.tutorial-mod.investigators_flesh": "Carne de Investigador",
+  "item.tutorial-mod.kakuhou_organ": "Organo Kakuhou",
+
   "block.tutorial-mod.kaku_block": "Bloque de Kaku",
-  "item.tutorial-mod.kakuhou_organ": "Organo Kakuhou"
+  "block.tutorial-mod.kaku_ore": "Mena de Kaku"
 }

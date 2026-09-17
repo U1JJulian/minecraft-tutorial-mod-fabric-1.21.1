@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 250,
+  "experience": 0.5,
+  "group": "kaku_ore",
+  "ingredient": {
+    "item": "tutorial-mod:kaku_ore"
+  },
+  "result": {
+    "id": "tutorial-mod:kaku_gem"
+  }
+}
