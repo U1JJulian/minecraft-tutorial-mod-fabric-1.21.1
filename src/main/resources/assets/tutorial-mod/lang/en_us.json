@@ -7,8 +7,16 @@
   "item.tutorial-mod.investigators_blood": "Sangre de Investigador",
   "item.tutorial-mod.investigators_flesh": "Carne de Investigador",
   "item.tutorial-mod.kakuhou_organ": "Organo Kakuhou",
-  "item.tutorial-mod.kaku_sword": "Espada de Kaku",
+
+  "item.tutorial-mod.kakuhou_sword": "Espada de Kakuhou ",
+  "item.tutorial-mod.rinkaku_sword": "Rinkaku",
+  "item.tutorial-mod.ukaku_sword": "Ukaku",
+  "item.tutorial-mod.bikaku_sword": "Bikaku",
+  "item.tutorial-mod.koukaku_sword": "Koukaku",
 
   "block.tutorial-mod.kaku_block": "Bloque de Kaku",
-  "block.tutorial-mod.kaku_ore": "Mena de Kaku"
+  "block.tutorial-mod.kaku_ore": "Mena de Kaku",
+
+  "item.tutorial-mod.tutorial_entity_mob_spawn_egg": "Huevo de Mob de Prueba",
+  "entity.tutorial-mod.test_mob": "Mob de Prueba"
 }
